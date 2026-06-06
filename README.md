@@ -11,12 +11,12 @@ Instead, it analyzes *patterns, signals, and context* commonly associated with m
 
 The modern internet moves faster than fact-checking.  
 Users are constantly exposed to:
-- Sensational headlines
-- Miracle health claims
-- Financial “guarantees”
-- Forwarded viral messages
-- Politically charged narratives
-- Unverified testimonials
+- Sensational headlines.
+- Miracle health claims.
+- Financial “guarantees”.
+- Forwarded viral messages.
+- Politically charged narratives.
+- Unverified testimonials.
 
 TrustLens helps users **pause, reflect, and assess risk** before sharing or acting on content.
 
@@ -24,21 +24,21 @@ TrustLens helps users **pause, reflect, and assess risk** before sharing or acti
 
 ## What TrustLens Is
 
-✔ A **decision-support tool**  
-✔ A **risk signal analyzer**  
-✔ A **privacy-respecting system**  
-✔ A **client-first architecture**  
-✔ A **human-in-the-loop assistant**
+✔ A **decision-support tool**.  
+✔ A **risk signal analyzer**.  
+✔ A **privacy-respecting system**.  
+✔ A **client-first architecture**.  
+✔ A **human-in-the-loop assistant**.
 
 ---
 
 ## What TrustLens Is NOT
 
-✘ Not a truth oracle  
-✘ Not a censorship tool  
-✘ Not a political judge  
-✘ Not a replacement for journalism  
-✘ Not a surveillance system  
+✘ Not a truth oracle.  
+✘ Not a censorship tool.  
+✘ Not a political judge.  
+✘ Not a replacement for journalism.  
+✘ Not a surveillance system.  
 
 TrustLens provides **signals, not verdicts**.
 
@@ -46,11 +46,11 @@ TrustLens provides **signals, not verdicts**.
 
 ## Core Principles
 
-- **Privacy by Design** – No user tracking, no data resale
-- **Transparency** – Signals are explainable
-- **Neutrality** – No political or ideological bias
-- **User Agency** – Users decide what to believe
-- **Safety First** – Avoids medical, legal, or financial advice
+- **Privacy by Design** – No user tracking, no data resale.
+- **Transparency** – Signals are explainable.
+- **Neutrality** – No political or ideological bias.
+- **User Agency** – Users decide what to believe.
+- **Safety First** – Avoids medical, legal, or financial advice.
 
 ---
 
