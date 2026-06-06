@@ -97,3 +97,5 @@ The TrustLens detection engine, heuristics, scoring logic, and operational sourc
 All documentation © TrustLens.  
 All rights reserved.
 
+**Maintained by [LYF Mail](https://github.com/lyfmail-official)** · 
+Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) 
