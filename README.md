@@ -57,7 +57,7 @@ The modern internet moves faster than fact-checking. Every day, millions of peop
 - ✘ **Not a replacement for journalism** — we complement professional fact-checking.
 - ✘ **Not a surveillance system** — zero tracking, zero data collection, ever.
 
-&gt; TrustLens provides **signals, not verdicts**. We empower users to make informed decisions, not dictate what to believe.
+TrustLens provides **signals, not verdicts**. We empower users to make informed decisions, not dictate what to believe.
 
 ---
 
@@ -106,7 +106,7 @@ TrustLens is built with **privacy-first principles** from the ground up. We beli
 - ✅ **No invasive permissions** — works with zero system access.
 - ✅ **No data resale** — we don't monetize your information.
 
-&gt; **"Your content stays your content. Always."**
+**"Your content stays your content. Always."**
 
 ---
 
