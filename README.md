@@ -7,8 +7,8 @@
 [![PWA Ready](https://img.shields.io/badge/PWA-Installable-orange)](https://trustlens.lyfmail.com)
 [![Maintained by LYF Mail](https://img.shields.io/badge/Maintained%20by-LYF%20Mail-purple)](https://lyfmail.com)
 
-&gt; **"Analyze Responsibly. Share Consciously. Trust Transparently."**  
-&gt; A free, open-source misinformation detection tool from [LYF Mail](https://lyfmail.com) — India's privacy-first digital wellness platform.
+**"Analyze Responsibly. Share Consciously. Trust Transparently."**  
+A free, open-source misinformation detection tool from [LYF Mail](https://lyfmail.com) — India's privacy-first digital wellness platform.
 
 ---
 
@@ -259,7 +259,7 @@ The TrustLens detection engine, heuristics, scoring logic, and operational sourc
 
 ---
 
-&gt; *"Every Choice Shapes Tomorrow"*
+*"Every Choice Shapes Tomorrow"*
 
 **Maintained by [LYF Mail](https://lyfmail.com)** · Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) · Varanasi, Uttar Pradesh, India · Since 2020
 
